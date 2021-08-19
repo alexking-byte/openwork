@@ -2,7 +2,6 @@
 // Licensed under the MIT License.
 
 // index.js is used to setup and configure your bot
-
 // Import required packages
 const path = require('path');
 const restify = require('restify');

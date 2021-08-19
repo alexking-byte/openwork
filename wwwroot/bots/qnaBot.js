@@ -240,7 +240,6 @@ class QnABot extends ActivityHandler {
 
                                   const classes =["000000000","乾電池","ビン","ペットボトル"];
                               
-
                                   msg = classes[result.label];
 
                              console.log('result--------------3',msg);
