@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/7c8948fd-d849-42ef-8387-45123fe63809/resourceGroups/dev01_group/providers/Microsoft.Web/sites/TrashchekerV1",
-    "appService.deploySubpath": "."
-}
